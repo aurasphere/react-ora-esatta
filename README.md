@@ -8,7 +8,7 @@
 
 Increase your user retention by 300% while loading data.
 
-<video src="https://github.com/aurasphere/react-ora-esatta/raw/main/assets/ora-esatta.mp4" loop autoPlay></video>
+https://github.com/aurasphere/react-ora-esatta/assets/14991778/afe08fb6-c6b7-4d18-8f1c-a6a7c11454af
 
 ## Installation
 
