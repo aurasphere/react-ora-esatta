@@ -1,12 +1,12 @@
 {
-  "name": "@aurasphere/react-ora-esatta-loader",
-  "description": "Your breakfast loader",
+  "name": "@aurasphere/react-ora-esatta",
+  "description": "Increase your user retention by 300% while loading data",
   "version": "1.0.0",
   "author": "Donato Rimenti",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aurasphere/react-ora-esatta-loader.git"
+    "url": "https://github.com/aurasphere/react-ora-esatta.git"
   },
   "scripts": {
     "build": "rollup -c"

@@ -1,1 +1,1 @@
-export { default as OraEsattaLoader } from "./OraEsattaLoader";
+export { default as OraEsatta } from "./OraEsatta";
